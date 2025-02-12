@@ -31,12 +31,12 @@ I'm a passionate software developer with a strong interest in web development, D
   
 
 ## 📝 Recent Blog Posts
-
+ View on [myblog.vercel.app]https://my-dynamic-vlog-mil3.vercel.app
 
 
 ## 🖼️ Projects
 
-- [Project 1](https://github.com/wardaathar/project1): Description of project 1
-- [Project 2](https://github.com/wardaathar/project2): Description of project 2
+- [Project 1]([https://github.com/wardaathar/project1](https://hackhton-ui-ux-assignment.vercel.app)): Description of project 1
+- [Project 2][(https://github.com/wardaathar/project2](https://responsive-website-using-html-css-xi.vercel.app)): Description of project 2
 
 Thanks for visiting my profile! Feel free to reach out if you'd like to collaborate on a project or just chat about tech!
