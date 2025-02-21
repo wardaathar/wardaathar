@@ -13,6 +13,11 @@ I'm a passionate software developer with a strong interest in web development, D
 
 ## 🛠️ Technologies & Tools
 
+Languages and Tools:
+css3 html5 javascript nodejs react tailwind typescript
+
+wardaathar/github
+
 - Programming Languages: JavaScript, Python, Java
 - Frontend: React, Angular, HTML5, CSS3
 - Backend: Node.js, Express.js, Django
