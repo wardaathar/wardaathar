@@ -1,4 +1,4 @@
-# Hi there, I'm Warda Athar! 👋
+# Hi there, I'm Syeda Warda Athar! 👋
 
 ## 🚀 About Me
 
@@ -8,7 +8,7 @@ I'm a passionate software developer with a strong interest in web development, D
 - 🌱 I’m currently learning more about cloud computing and microservices
 - 👯 I’m looking to collaborate on open-source projects
 - 💬 Ask me about web development, DevOps, or any tech-related topics
-- 📫 How to reach me: (mailto:wardaathar@example.com)](https://www.linkedin.com/in/syeda-warda-2ab623344/)
+- 📫 How to reach me: (https://www.linkedin.com/in/syeda-warda-2ab623344/)
 - ⚡ Fun fact: I enjoy painting and hiking in my free time
 
 ## 🛠️ Technologies & Tools
