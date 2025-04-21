@@ -26,7 +26,6 @@ HTML5 • CSS3 • JavaScript • Node.js • React • Tailwind CSS • TypeScr
 - Cloud Platforms: AWS, Azure, Google Cloud  
 - Version Control: Git, GitHub  
 
-## 📈 GitHub Stats
 
 ![Warda's GitHub stats](https://github-readme-stats.vercel.app/api?username=wardaathar&show_icons=true&theme=radical)
 
