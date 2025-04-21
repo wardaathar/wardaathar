@@ -14,7 +14,7 @@ I'm a passionate software developer with a strong interest in web development, D
 ## 🛠️ Technologies & Tools
 
 **Languages and Tools:**  
-HTML5 • CSS3 • JavaScript • Node.js • React • Tailwind CSS • TypeScript
+HTML5 • CSS3 • JavaScript • Node.js • React • Tailwind CSS • TypeScript & Python
 
 **Proficiencies:**
 
@@ -40,8 +40,12 @@ HTML5 • CSS3 • JavaScript • Node.js • React • Tailwind CSS • TypeScr
 
 ## 🖼️ Projects
 
-- [Project 1](https://hackhton-ui-ux-assignment.vercel.app): Description of project 1  
-- [Project 2](https://responsive-website-using-html-css-xi.vercel.app): Description of project 2  
+## 🖼️ Projects
+
+- [E-commerce App](https://hackhton-ui-ux-assignment.vercel.app): A complete e-commerce website built using HTML, CSS, JavaScript, and TypeScript. Includes dynamic features and user-friendly UI.
+
+- [Responsive Product Web](https://responsive-website-using-html-css-xi.vercel.app): A clean and simple product showcase website built using only HTML and CSS. Fully responsive for all screen sizes.
+
 
 ---
 
