@@ -14,7 +14,7 @@ I'm a passionate software developer with a strong interest in web development, D
 ## 🛠️ Technologies & Tools
 
 **Languages and Tools:**  
-HTML5 • CSS3 • JavaScript • Node.js • React • Tailwind CSS • TypeScript & Python
+HTML5 • CSS3 • JavaScript • Node.js • React • Tailwind CSS • TypeScript
 
 **Proficiencies:**
 
@@ -26,9 +26,6 @@ HTML5 • CSS3 • JavaScript • Node.js • React • Tailwind CSS • TypeScr
 - Cloud Platforms: AWS, Azure, Google Cloud  
 - Version Control: Git, GitHub  
 
-
-![Warda's GitHub stats](https://github-readme-stats.vercel.app/api?username=wardaathar&show_icons=true&theme=radical)
-
 ## 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/syeda-warda-2ab623344/)  
@@ -39,12 +36,9 @@ HTML5 • CSS3 • JavaScript • Node.js • React • Tailwind CSS • TypeScr
 
 ## 🖼️ Projects
 
-## 🖼️ Projects
-
 - [E-commerce App](https://hackhton-ui-ux-assignment.vercel.app): A complete e-commerce website built using HTML, CSS, JavaScript, and TypeScript. Includes dynamic features and user-friendly UI.
 
 - [Responsive Product Web](https://responsive-website-using-html-css-xi.vercel.app): A clean and simple product showcase website built using only HTML and CSS. Fully responsive for all screen sizes.
-
 
 ---
 
